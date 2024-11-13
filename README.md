@@ -1,4 +1,4 @@
-Minicurso de JavaScript - IFTO em Foco
+# Minicurso de JavaScript - IFTO em Foco
 Este repositório contém os códigos e exemplos apresentados durante o Minicurso de JavaScript realizado no evento IFTO em Foco no dia 06/11/2024, no IFTO Campus Colinas.
 
 📚 Conteúdo do Minicurso
